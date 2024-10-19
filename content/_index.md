@@ -1,11 +1,11 @@
 +++
-title = "Welcome to IntegroTech Solutions"
+title = "Welcome to Offren"
 description = "Maximizing Your Product Potential"
 +++
 
-# Unlock New Revenue Streams with IntegroTech Solutions
+# Unlock New Revenue Streams with Offren
 
-Are you looking to boost your product's earning potential? At IntegroTech Solutions, we specialize in seamlessly integrating your existing products and services with cutting-edge technologies and platforms.
+Are you looking to boost your product's earning potential? At Offren, we specialize in seamlessly integrating your existing products and services with cutting-edge technologies and platforms.
 
 ## What We Offer
 
