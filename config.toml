@@ -1,0 +1,60 @@
+# Basic Configuration
+baseURL = "https://example.com"
+languageCode = "en-us"
+title = "My Hugo Website"
+theme = "ananke"
+
+# Site Parameters
+[params]
+  description = "Welcome to my website built with Hugo!"
+  favicon = "favicon.ico"
+  images = ["site-feature-image.jpg"]
+  custom_css = ["css/custom.css"]
+
+# Author Information
+[author]
+  name = "Your Name"
+  email = "you@example.com"
+
+# Menu Configuration
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 2
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 3
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+# Privacy Settings
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true
